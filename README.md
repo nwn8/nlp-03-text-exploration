@@ -1,3 +1,5 @@
+Author: Nathan S
+
 # nlp-03-text-exploration
 
 [![Python 3.14+](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](#)
@@ -45,7 +47,7 @@ You'll work with just these files as you update authorship and experiment:
 
 ## First: Follow These Instructions
 
-Follow the [step-by-step workflow guide](https://denisecase.github.io/pro-analytics-02/workflow-b-apply-example-project/) to complete:
+Follow the [step-by-step workflow guide](https://nwn8.github.io/pro-analytics-02/workflow-b-apply-example-project/) to complete:
 
 1. Phase 1. **Start & Run**
 2. Phase 2. **Change Authorship**
